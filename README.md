@@ -1,2 +1,2 @@
 # programming
-Programming classes
+Programming classes related to data structures.
